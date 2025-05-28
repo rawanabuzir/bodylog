@@ -66,7 +66,7 @@ To build and run this project, you will need:
 ----
 ## 📸 App Screenshots
 
-| Initial Scan | Connected & Weight Display | UI Example |
+| img1 | img2 | img3 |
 |--------------|----------------------------|------------|
 | ![Scan](assets/images/img1.jpeg) | ![Connected](assets/images/img2.jpeg) | ![UI](assets/images/img3.jpeg) |
 
