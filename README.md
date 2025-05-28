@@ -63,15 +63,15 @@ To build and run this project, you will need:
 
 5.  **Activate Bluetooth and the Scale:**
     Ensure Bluetooth is enabled on your mobile device. Once the app is running, activate your smart scale (typically by stepping on it for a few seconds) to make it start advertising and become discoverable and connectable.
-
-ؤ Permissions (Android)
-
-The application requires the following permissions in your `android/app/src/main/AndroidManifest.xml` file:
+----
 
 ![App Screenshot 1 - Initial Scan](assets/images/img1.jpeg)
 ![App Screenshot 2 - Connected & Weight Display](assets/images/img2.jpeg)
 ![App Screenshot 3 - UI Example](assets/images/img3.jpeg)
+-----
 
+Permissions (Android) 
+The application requires the following permissions in your `android/app/src/main/AndroidManifest.xml` file:
 ```xml
 <uses-permission android:name="android.permission.BLUETOOTH" />
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
@@ -82,5 +82,9 @@ The application requires the following permissions in your `android/app/src/main
 <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
 
 
+resources:
+ Support request for Chipsea-based Body Fat analyzers:  https://github.com/oliexdev/openScale/issues/496
+https://github.com/oliexdev/openScale/files/5224454/OKOK.Protocol.pdf
+https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan
 
 
