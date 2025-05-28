@@ -86,5 +86,6 @@ resources:
  Support request for Chipsea-based Body Fat analyzers:  https://github.com/oliexdev/openScale/issues/496
 https://github.com/oliexdev/openScale/files/5224454/OKOK.Protocol.pdf
 https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan
+https://pub.dev/packages/flutter_blue_plus/install
 
 
