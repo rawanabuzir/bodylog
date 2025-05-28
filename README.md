@@ -76,3 +76,9 @@ The application requires the following permissions in your `android/app/src/main
 <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation" />
 <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
 <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+
+
+
+
+![Screenshot 1 Description](assets/screenshots/screenshot1.png)
+![Screenshot 2 Description](assets/screenshots/screenshot1.png)
